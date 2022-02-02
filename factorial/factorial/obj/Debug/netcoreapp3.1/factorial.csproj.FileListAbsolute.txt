@@ -1,0 +1,13 @@
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\factorial\factorial\factorial\bin\Debug\netcoreapp3.1\factorial.exe
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\factorial\factorial\factorial\bin\Debug\netcoreapp3.1\factorial.deps.json
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\factorial\factorial\factorial\bin\Debug\netcoreapp3.1\factorial.runtimeconfig.json
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\factorial\factorial\factorial\bin\Debug\netcoreapp3.1\factorial.runtimeconfig.dev.json
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\factorial\factorial\factorial\bin\Debug\netcoreapp3.1\factorial.dll
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\factorial\factorial\factorial\bin\Debug\netcoreapp3.1\factorial.pdb
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\factorial\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.csprojAssemblyReference.cache
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\factorial\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.AssemblyInfoInputs.cache
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\factorial\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.AssemblyInfo.cs
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\factorial\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.csproj.CoreCompileInputs.cache
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\factorial\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.dll
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\factorial\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.pdb
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\factorial\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.genruntimeconfig.cache
